@@ -35,11 +35,4 @@ public class AnimalParameterizedAnimalKindTest {
         assertEquals(expectedAnimalFood, actual);
     }
 
-    @Test
-    public void getFood() {
-    }
-
-    @Test
-    public void getFamily() {
-    }
 }

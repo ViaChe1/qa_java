@@ -60,15 +60,4 @@ public class LionTest {
         assertEquals(expected, actual);
     }
 
-    @Test
-    public void getKittens() {
-    }
-
-    @Test
-    public void doesHaveMane() {
-    }
-
-    @Test
-    public void getFood() {
-    }
 }
