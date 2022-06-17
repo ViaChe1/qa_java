@@ -37,19 +37,4 @@ public class LionParameterizedHaveManeTest {
         assertEquals(isMane, actual);
     }
 
-    @Test
-    public void eatMeat() {
-    }
-
-    @Test
-    public void getFamily() {
-    }
-
-    @Test
-    public void getKittens() {
-    }
-
-    @Test
-    public void testGetKittens() {
-    }
 }

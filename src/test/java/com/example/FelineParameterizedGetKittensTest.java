@@ -36,11 +36,4 @@ public class FelineParameterizedGetKittensTest {
         assertEquals(expectedKittens, actual);
     }
 
-    @Test
-    public void getFood() {
-    }
-
-    @Test
-    public void getFamily() {
-    }
 }

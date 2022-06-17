@@ -45,19 +45,4 @@ public class FelineTest {
         assertEquals(expected, actual);
     }
 
-    @Test
-    public void eatMeat() {
-    }
-
-    @Test
-    public void getFamily() {
-    }
-
-    @Test
-    public void getKittens() {
-    }
-
-    @Test
-    public void testGetKittens() {
-    }
 }
